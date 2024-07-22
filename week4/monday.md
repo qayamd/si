@@ -42,7 +42,7 @@ Python has some special rules that help it understand what we want it to do. Let
    - Square brackets [ ] for lists (we'll learn about these soon!)
    - Curly braces { } for dictionaries (we'll learn about these later)
 
-Here's an example that uses some of these rules:
+Here's an example that uses some of these rules: (DO NOT TYPE THIS IN. THIS IS JUST AN EXAMPLE TO SHOW THE RULES)
 
 ```python
 if age > 10:
