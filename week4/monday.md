@@ -106,11 +106,9 @@ Here's an example:
 
 ```python
 name = "Sam"
-age = 11
 favorite_color = "green"
 
 print("My name is " + name + ".")
-print("I am " + str(age) + " years old.")
 print("My favorite color is " + favorite_color + ".")
 ```
 
