@@ -1,4 +1,3 @@
-I apologize for the confusion. You're right, let's focus exclusively on playdough and include the link to the bongos. Here's a revised version of the lesson:
 
 # Playdough Percussion: Turn Dough into Music with Makey Makey!
 
